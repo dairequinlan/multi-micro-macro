@@ -2,6 +2,8 @@
 
 Simple sketch for a multi mode Macro pad based off a Micro Pro. 
 
+![](https://github.com/dairequinlan/multi-micro-macro/blob/main/multi-micro-macro.png)
+
 8 switches, wired directly to Micro pins: 2,3,4,5,6,7,8,9 in the following 4x2 arrangement:
 
 [2][3][4][5]
